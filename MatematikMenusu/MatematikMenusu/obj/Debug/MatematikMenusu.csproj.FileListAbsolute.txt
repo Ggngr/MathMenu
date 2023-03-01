@@ -1,0 +1,8 @@
+C:\Users\NAO BİLİSİM\Documents\c\MatematikMenusu\MatematikMenusu\bin\Debug\MatematikMenusu.exe.config
+C:\Users\NAO BİLİSİM\Documents\c\MatematikMenusu\MatematikMenusu\bin\Debug\MatematikMenusu.exe
+C:\Users\NAO BİLİSİM\Documents\c\MatematikMenusu\MatematikMenusu\bin\Debug\MatematikMenusu.pdb
+C:\Users\NAO BİLİSİM\Documents\c\MatematikMenusu\MatematikMenusu\obj\Debug\MatematikMenusu.csproj.AssemblyReference.cache
+C:\Users\NAO BİLİSİM\Documents\c\MatematikMenusu\MatematikMenusu\obj\Debug\MatematikMenusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\NAO BİLİSİM\Documents\c\MatematikMenusu\MatematikMenusu\obj\Debug\MatematikMenusu.csproj.CoreCompileInputs.cache
+C:\Users\NAO BİLİSİM\Documents\c\MatematikMenusu\MatematikMenusu\obj\Debug\MatematikMenusu.exe
+C:\Users\NAO BİLİSİM\Documents\c\MatematikMenusu\MatematikMenusu\obj\Debug\MatematikMenusu.pdb
