@@ -21,6 +21,7 @@ namespace MatematikMenusu
             Console.WriteLine("6) Eşkenar üçgen çevresi\n");
 
             Console.WriteLine("*************\n");
+           //
             Console.WriteLine("işlem yapmak istediğiniz alanın numarasını yazın: ");
             islem = Convert.ToInt32(Console.ReadLine());
             if (islem == 1)
